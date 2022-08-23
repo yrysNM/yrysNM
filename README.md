@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align = "left" alt =" yrysNM | LinkedIn" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>][Linkedin]
-[<img align = "left" alt =" yrysNM | LeetCode" width ="30px" src = "https://github.com/yrysNM/yrysNM/blob/main/img/LinkedIn.png" />][LeetCode]<br>
+[<img align = "left" alt =" yrysNM | LeetCode" width ="30px" src = "https://github.com/yrysNM/yrysNM/blob/main/img/LeetCode.png" />][LeetCode]<br>
 <br>
 ### Top Language card:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrysNM&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
