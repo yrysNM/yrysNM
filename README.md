@@ -11,6 +11,5 @@
 <br>
 ### Top Language card:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrysNM&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
 [Linkedin]: https://www.linkedin.com/in/yrysbek-nessipkulov-78a002241/
 [LeetCode]: https://leetcode.com/yrys_NM/
