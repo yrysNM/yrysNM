@@ -2,7 +2,6 @@
 
 ## I'm a Student, Developer and Teamworker!
  - 🌱 I'm currently learning Web development and Frontend🎓
- - 🥅 2022 Goals: Create more open source projects and expand my skills
  - 📫 How to reach me: yrysbek.or.s@gmail.com
 
 ### Connect with me:
